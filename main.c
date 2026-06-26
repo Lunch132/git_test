@@ -4,5 +4,6 @@ int main() {
     printf("LHL");
     printf("lhlniubi");
     printf("zjhniubi");
+    printf("zjhniubi");
     return 0;
 }
